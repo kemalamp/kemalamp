@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kemalamp
-- 👀 I’m interested in data science and UI/UX
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in data science 
+- 🌱 I’m currently work as risk analyst
 
 
 <!---
